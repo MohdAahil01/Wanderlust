@@ -1,6 +1,5 @@
 # Wanderlust - Hotel Listing Platform
 
-![Wanderlust Banner](https://via.placeholder.com/1200x400?text=Wanderlust+-+Hotel+Listing+Platform)
 
 ## 📌 About the Project
 Wanderlust is a **full-stack hotel listing platform** that allows users to **browse, add, update, and manage hotels** with an interactive and user-friendly interface. The platform ensures a seamless experience with **secure authentication, image uploads, and dynamic rendering**.
