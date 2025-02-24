@@ -34,30 +34,6 @@ Wanderlust is a **full-stack hotel listing platform** that allows users to **bro
    npm install
    ```
 
-3. **Set up environment variables**
-   - Create a `.env` file in the root directory and add the following:
-     ```env
-     PORT=3000
-     MONGO_URI=your_mongodb_connection_string
-     CLOUDINARY_CLOUD_NAME=your_cloudinary_name
-     CLOUDINARY_API_KEY=your_cloudinary_api_key
-     CLOUDINARY_API_SECRET=your_cloudinary_api_secret
-     SESSION_SECRET=your_secret_key
-     ```
-
-4. **Run the application**
-   ```sh
-   npm start
-   ```
-
-5. **Open the app in your browser**
-   ```
-   http://localhost:3000
-   ```
-
-## 📸 Screenshots
-_(Add screenshots of your project here to showcase UI & features)_
-
 ## 🌍 Live Demo
 https://major-project-duug.onrender.com/listings
 
